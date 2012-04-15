@@ -1,0 +1,153 @@
+Unhandled response event 6f
+channel open, waiting for broadcast
+reading auth data from auth405
+Unhandled response event 0a
+Advancing to command 1
+Unhandled response event 0a
+version decode 6 255 41 64
+completed command 1 -1
+255 Part#: 717 ver: 270 Name: Forerunner 405 Software Version 2.70
+Unhandled response event 0a
+version decode 5 248 33 56
+248 GPSver: GPS GSC3LT Software Version 2.10
+Unhandled response event 0a
+Reacking: 00 440dffff0000000006000200f8000000
+Unhandled response event 0a
+Reacking: 00 440dffff0000000006000200f8000000
+Unhandled response event 0a
+Reacking: 00 440dffff0000000006000200f8000000
+Unhandled response event 0a
+Reacking: 00 440dffff0000000006000200f8000000
+Unhandled response event 0a
+Reacking: 00 440dffff0000000006000200f8000000
+Unhandled response event 0a
+Reacking: 00 440dffff0000000006000200f8000000
+Unhandled response event 0a
+Reacking: 00 440dffff0000000006000200f8000000
+Unhandled response event 0a
+Reacking: 00 440dffff0000000006000200f8000000
+Unhandled response event 0a
+Reacking: 00 440dffff0000000006000200f8000000
+Unhandled response event 0a
+version decode 23 253 177 200
+253 Unknown
+80.0.0
+76.1.0
+65.10.0
+65.135.3
+65.150.3
+68.150.3
+65.247.3
+84.1.0
+65.100.0
+68.110.0
+65.201.0
+68.202.0
+68.110.0
+68.210.0
+65.46.1
+68.55.1
+68.250.3
+65.244.1
+68.245.1
+65.88.2
+68.88.2
+65.89.2
+68.89.2
+65.188.2
+68.188.2
+65.32.3
+68.32.3
+65.33.3
+68.33.3
+65.134.3
+65.139.3
+68.139.3
+68.140.3
+68.141.3
+68.142.3
+65.138.3
+68.247.3
+65.232.3
+68.241.3
+65.249.3
+68.240.3
+65.235.3
+68.235.3
+65.248.3
+68.248.3
+65.237.3
+68.237.3
+65.250.3
+68.238.3
+65.239.3
+68.239.3
+65.240.3
+68.244.3
+65.241.3
+68.245.3
+65.245.3
+68.246.3
+65.246.3
+68.249.3
+Unhandled response event 0a
+Advancing to command 2
+Unhandled response event 0a
+name decode 1 525 1 24
+completed command 2 1
+525 Devname 
+Unhandled response event 0a
+Advancing to command 3
+Unhandled response event 0a
+unit decode 1 38 4 24
+completed command 3 2
+38 unitid 3807009006
+Unhandled response event 0a
+Advancing to command 4
+Unhandled response event 0a
+position decode 3 17 16 40
+completed command 4 3
+17 position ?  4026620481 1072567552 2117314070 3213375663
+Unhandled response event 0a
+Advancing to command 5
+Unhandled response event 0a
+time decode 2 14 8 32
+completed command 5 4
+14 time: 07-13-2011 17:31:25
+Unhandled response event 0a
+Advancing to command 6
+Unhandled response event 0a
+unknown decode 1 1523 4 24
+completed command 6 5
+1523 ints? 10000
+Unhandled response event 0a
+Advancing to command 7
+Unhandled response event 0a
+unknown decode 3 994 12 40
+completed command 7 6
+994 ints? 200 25 200
+Unhandled response event 0a
+Advancing to command 8
+Unhandled response event 0a
+unknown decode 4 1066 16 48
+completed command 8 7
+1066 ints? 20 200 100 18500
+Unhandled response event 0a
+Advancing to command 9
+Unhandled response event 0a
+software decode 27 247 212 232
+completed command 9 8
+247 Device name Forerunner 405
+Unhandled response event 0a
+Advancing to command 10
+Unhandled response event 0a
+activities decode 1 27 2 24
+27 activities 2
+Unhandled response event 0a
+activities decode 86 990 684 704
+990 activity 1 lap 9-17 sport 0
+990 shorts? 1 9 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 0 0
+Unhandled response event 0a
+activities decode 86 990 684 704
+990 activity 2 lap 18-22 sport 0
+990 shorts? 2 18 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
