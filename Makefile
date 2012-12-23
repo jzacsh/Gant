@@ -1,9 +1,12 @@
 CFLAGS=-g -Wall
 LDFLAGS=-lpthread -lm
 
+OBJS=gant.o antlib.o
+
 all:	gant
 
-gant: gant.o antlib.o
+gant: $(OBJS)
+	$(CXX) $(CFLAGS) $(OBJS) -o $@ $(LDFLAGS)
 
 gant.o:	gant.c antdefs.h
 
